@@ -4,4 +4,4 @@ My focus on this project was to create a design with rearrangeable cards for use
 
 Not included in repo: node modules
 
-![View](https://giphy.com/gifs/gj5LzQ6mAiipqo9hQP/html5)
+![View](https://media.giphy.com/media/gj5LzQ6mAiipqo9hQP/giphy.gif)
